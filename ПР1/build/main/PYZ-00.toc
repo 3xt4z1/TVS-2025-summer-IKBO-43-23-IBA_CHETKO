@@ -1,4 +1,4 @@
-('D:\\University\\5Sem\\ТиВПО\\Пр1\\build\\main\\PYZ-00.pyz',
+('D:\\University\\5Sem\\ТиВПО\\Пр1\\TVS-2025-summer-IKBO-43-23-IBA_CHETKO\\ПР1\\build\\main\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\emil_\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
